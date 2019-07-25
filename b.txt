@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 software!!!!!! naja
+=======
+software!! naja
+>>>>>>> feature2
